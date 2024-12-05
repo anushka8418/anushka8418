@@ -13,9 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka8418&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies-
-![](https://github-profile-trophy.vercel.app/?username=anushka8418&theme=panda&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anushka8418&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anushka8418&icon=5&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=anushkasharma8418&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
